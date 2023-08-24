@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranali18-Ai?tab=repositories](https://github.com/pranali18-Ai?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

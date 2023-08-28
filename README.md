@@ -1,29 +1,64 @@
-### Hey Pranali here 👋
----
+<div align="center">
+  <h1>Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pranali</h1>
+  <h3>🚀 AI Engineer | Fullstack Developer 🌟</h3>
+</div>
 
-I am an AI Engineer who is exploring Fullstack Development 
- 
+<div align="center">
+  <a href="YOUR_LINKEDIN_PROFILE_LINK" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
+  </a>
+  <!-- Add other social icons here -->
+</div>
 
-- 🌱 I’m currently learning **React**
+<br />
 
-- 👨‍💻 All of my projects are available at [https://github.com/pranali18-Ai?tab=repositories](https://github.com/pranali18-Ai?tab=repositories)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranali18-Ai" alt="Commit Streak" />
+</div>
 
+<br />
 
-<p align="left">
-</p>
-<h2 align="center">Github stats :bar_chart:</h2>
+<div align="center">
+  <h2>🌱 I'm Currently Learning</h2>
+  <p>React</p>
+</div>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<br />
 
-<p align="center"><img src="https://profile-counter.glitch.me/{pranali18-Ai}/count.svg" alt="pranali18-Ai :: Visitor's Count" /></p>
+<div align="center">
+  <h2>👨‍💻 Check Out My Projects</h2>
+  <p>You can find all my projects on <a href="https://github.com/pranali18-Ai?tab=repositories">GitHub</a></p>
+</div>
 
-<h4 align="center">Top langs :tongue:</h4>
+<br />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranali18-Ai&langs_count=10&theme=tokyonight&layout=compact" alt="pranali18-Ai :: Top Langs" /></p>
+<div align="center">
+  <h2>GitHub Stats 📊</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranali18-Ai&show_icons=true&theme=synthwave" alt="Profile Stats" />
+</div>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<br />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pranali18-Ai&show_icons=true&theme=synthwave" alt="pranali18-Ai :: Profile Stats" /></p>
+<div align="center">
+  <h2>Top Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranali18-Ai&langs_count=10&theme=tokyonight&layout=compact" alt="Top Languages" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br />
+
+<div align="center">
+  <h2>Visitor Count 👀</h2>
+  <img src="https://profile-counter.glitch.me/pranali18-Ai/count.svg" alt="Visitor Count" />
+</div>
+
+<br />
+
+<div align="center">
+  <h2>Languages and Tools 🔧</h2>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+    <!-- Add more icons here -->
+  </p>
+</div>

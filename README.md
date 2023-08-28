@@ -7,13 +7,13 @@
   <a href="https://www.linkedin.com/in/pranali-patil-ai-engineer/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
   </a>
-  <!-- Add other social icons here -->
+  
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranali18-Ai&theme=synthwave" alt="Commit Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranali18-Ai&theme=tokyonight" alt="Commit Streak" />
 </div>
 
 <br />
@@ -34,7 +34,7 @@
 
 <div align="center">
   <h2>GitHub Stats 📊</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=pranali18-Ai&show_icons=true&theme=synthwave" alt="Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranali18-Ai&show_icons=true&theme=tokyonight" alt="Profile Stats" />
 </div>
 
 <br />

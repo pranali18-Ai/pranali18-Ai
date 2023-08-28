@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/pranali-patil-ai-engineer/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
   </a>
   <!-- Add other social icons here -->
@@ -13,7 +13,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranali18-Ai" alt="Commit Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranali18-Ai&theme=synthwave" alt="Commit Streak" />
 </div>
 
 <br />

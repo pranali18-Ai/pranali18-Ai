@@ -7,7 +7,9 @@
   <a href="https://www.linkedin.com/in/pranali-patil-ai-engineer/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
   </a>
-  
+   <a href="https://github.com/pranali18-Ai" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/github.png" alt="Github" width="40" />
+  </a>
 </div>
 
 <br />

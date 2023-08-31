@@ -4,12 +4,27 @@
 </div>
 
 <div align="center">
+<!--   Linkedin -->
   <a href="https://www.linkedin.com/in/pranali-patil-ai-engineer/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" />
   </a>
+ <!-- Github  -->
    <a href="https://github.com/pranali18-Ai" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/github.png" alt="Github" width="40" />
   </a>
+   <!-- W3Schools  -->
+  <a href="https://www.w3profile.com/Pranali" target="_blank">
+    <img align="center" src="https://th.bing.com/th/id/R.98aca34e0a28392d2c8ae7c1f2248d6f?rik=HbFV1AOSz0UKXg&riu=http%3a%2f%2fupload.turkcewiki.org%2fwikipedia%2fcommons%2fthumb%2fa%2fa0%2fW3Schools_logo.svg%2f80px-W3Schools_logo.svg.png&ehk=SM9po%2bAXsmeYlgrjALjjKl4y77m0cnrjvs1p8ndgtNY%3d&risl=&pid=ImgRaw&r=0" width="40" />
+  </a>
+ <!-- GeekForGeeks  -->
+   <a href="https://auth.geeksforgeeks.org/user/pranali18" target="_blank">
+    <img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeekForGeeks" width="40" />
+  </a>
+ <!-- StackOverflow  -->
+   <a href="https://stackoverflow.com/users/16456700/pranali-patil" target="_blank">
+    <img align="center" src="https://th.bing.com/th/id/R.2a7e2edf6fe01cbdc202b37a89e40ddf?rik=DnM%2fsu5PIIkFfQ&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f629e29c3974c5f2c1ceaa629.png&ehk=fValBtwwvgzcwv%2b15WaRPFPksmMwN57j9ix25pwTN2s%3d&risl=&pid=ImgRaw&r=0" alt="StackOverflow" width="40" />
+  </a>
+  
 </div>
 
 <br />

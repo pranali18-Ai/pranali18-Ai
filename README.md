@@ -37,15 +37,11 @@
 
 <div align="center">
   <h2>🌱 I'm Currently Learning</h2>
-  <p>React</p>
+  <p>React ⚛️, ASP.NET🌐, OpenCV</p>
 </div>
 
 <br />
 
-<div align="center">
-  <h2>👨‍💻 Check Out My Projects</h2>
-  <p>You can find all my projects on <a href="https://github.com/pranali18-Ai?tab=repositories">GitHub</a></p>
-</div>
 
 <br />
 

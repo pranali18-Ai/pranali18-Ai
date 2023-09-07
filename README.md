@@ -37,7 +37,7 @@
 
 <div align="center">
   <h2>🌱 I'm Currently Learning</h2>
-  <p>React ⚛️, ASP.NET🌐, OpenCV</p>
+  <p>React ⚛️, ASP.NET🌐</p>
 </div>
 
 <br />

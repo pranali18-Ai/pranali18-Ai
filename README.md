@@ -59,13 +59,7 @@
 
 <br />
 
-<div align="center">
-  <h2>Visitor Count 👀</h2>
-  <img src="https://profile-counter.glitch.me/pranali18-Ai/count.svg" alt="Visitor Count" />
-</div>
-
-<br />
-
+<br/>
 <div align="center">
   <h2>Languages and Tools 🔧</h2>
   <p align="center">
@@ -80,4 +74,9 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
      <img <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </p>
+</div>
+<div align="center" >
+  
+ <br />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranali18-Ai.pranali18-Ai" alt="Visitors" width="100" height="35" />
 </div>

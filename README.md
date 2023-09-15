@@ -30,7 +30,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranali18-Ai&theme=tokyonight" alt="Commit Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranali18-Ai&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <br />

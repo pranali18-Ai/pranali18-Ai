@@ -30,12 +30,8 @@
 <br />
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pranali18-Ai&theme=tokyonight" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pranali18-Ai&hide_current_streak=true&hide_longest_streak=true&card_width=200&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
-
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranali18-Ai&theme=tokyonight" alt="GitHub Streak" />
-</div> -->
 
 <br />
 
